@@ -1,0 +1,9 @@
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\bin\Release\CleanGM.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\bin\Release\CleanGM.pdb
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\bin\Release\GTAServer.exe
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\bin\Release\Lidgren.Network.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\bin\Release\protobuf-net.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\bin\Release\GTAServer.pdb
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Release\CleanGM.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Release\CleanGM.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Release\CleanGM.pdb

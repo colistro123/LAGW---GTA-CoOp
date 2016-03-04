@@ -1,0 +1,4 @@
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\Server\bin\Release\Gamemodes\LSGW.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\Server\bin\Release\Gamemodes\LSGW.pdb
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Debug\LSGW.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Debug\LSGW.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\Server\bin\Release\Gamemodes\LAGW.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\Server\bin\Release\Gamemodes\LAGW.pdb
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Debug\LAGW.dll
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Debug\LAGW.pdb
+C:\Users\Ignacio\Desktop\Projects\Resources (Projects that are not mine)\GTACoop-master\GMClean\obj\Debug\LAGW.csprojResolveAssemblyReference.cache
